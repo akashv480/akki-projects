@@ -1,0 +1,39 @@
+*{
+	background: #ffafbd;
+}
+h1{
+	text-align: center;
+	text-decoration-color:rebeccapurple ;
+}
+h3{
+	margin-top: 10px;
+	text-align: center;
+
+}
+div.image{
+	float: center;
+	margin: 50px;
+	margin-top: 30px;
+	margin-left: 500px;
+
+}
+div.overlay-on-image{
+	background: none;
+	position: absolute;
+	top: 30%;
+	left: 34.5%;
+	transform: translate(10px,-10px);
+	font-size: 27px;
+	font-display: ;
+	transform: rotateZ(20deg);
+}
+div.circle{
+	position: absolute;
+	top: 25%;
+	left: 34%;
+	width: 130px;
+	height: 130px;
+	border-radius: 50%;
+	background-color: darkred;
+}
+
